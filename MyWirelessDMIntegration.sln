@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "MyWirelessDMIntegration", "MyWirelessDMIntegration\MyWirelessDMIntegration.dtproj", "{F6D4C4BA-5A72-4D4A-92D1-CEF16B3F4448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6D4C4BA-5A72-4D4A-92D1-CEF16B3F4448}.Development|Default.ActiveCfg = Development
+		{F6D4C4BA-5A72-4D4A-92D1-CEF16B3F4448}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
